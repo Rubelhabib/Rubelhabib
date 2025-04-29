@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rubel Habib</h1>
 <h3 align="center">I’m currently learning Software Engineering Fundamentals.</h3>
 
-- 🌱 I’m currently learning **C Sharp Basic**
+- 🌱 I’m currently learning **DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
