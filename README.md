@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Rubel Habib</h1>
-<h3 align="center">I’m currently learning Software Engineering Fundamentals.</h3>
+<h3 align="center">I’m currently learning DevOps.</h3>
 
 - 🌱 I’m currently learning **DevOps**
 
