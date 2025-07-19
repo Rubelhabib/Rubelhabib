@@ -39,28 +39,28 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left" style="display: flex; gap: 30px; flex-wrap: nowrap; overflow-x: auto;">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-align: center; font-size: 14px; color: inherit; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /><br />
-    Linux
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-align: center; font-size: 14px; color: inherit; text-decoration: none; white-space: nowrap; display: flex; flex-direction: column; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+    <span>Linux</span>
   </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="text-align: center; font-size: 14px; color: inherit; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" /><br />
-    AWS
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="text-align: center; font-size: 14px; color: inherit; text-decoration: none; white-space: nowrap; display: flex; flex-direction: column; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" />
+    <span>AWS</span>
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-align: center; font-size: 14px; color: inherit; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /><br />
-    Docker
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-align: center; font-size: 14px; color: inherit; text-decoration: none; white-space: nowrap; display: flex; flex-direction: column; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
+    <span>Docker</span>
   </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer" style="text-align: center; font-size: 14px; color: inherit; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" /><br />
-    Terraform
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer" style="text-align: center; font-size: 14px; color: inherit; text-decoration: none; white-space: nowrap; display: flex; flex-direction: column; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" />
+    <span>Terraform</span>
   </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer" style="text-align: center; font-size: 14px; color: inherit; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" /><br />
-    GitHub
+  <a href="https://github.com/" target="_blank" rel="noreferrer" style="text-align: center; font-size: 14px; color: inherit; text-decoration: none; white-space: nowrap; display: flex; flex-direction: column; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
+    <span>GitHub</span>
   </a>
-  <a href="https://hub.docker.com/" target="_blank" rel="noreferrer" style="text-align: center; font-size: 14px; color: inherit; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="dockerhub" width="40" height="40" /><br />
-    Docker Hub
+  <a href="https://hub.docker.com/" target="_blank" rel="noreferrer" style="text-align: center; font-size: 14px; color: inherit; text-decoration: none; white-space: nowrap; display: flex; flex-direction: column; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="dockerhub" width="40" height="40" />
+    <span>Docker Hub</span>
   </a>
 </p>
