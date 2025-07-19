@@ -38,49 +38,30 @@
 </p>
 
 <h3 align="left">Tools:</h3>
-<table>
-  <tbody>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-          <br />Linux
-        </a>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" />
-          <br />AWS
-        </a>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
-          <br />Docker
-        </a>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" />
-          <br />Terraform
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <a href="https://github.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
-          <br />GitHub
-        </a>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <a href="https://hub.docker.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="dockerhub" width="40" height="40" />
-          <br />Docker Hub
-        </a>
-      </td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+<p align="left" style="display: flex; gap: 30px; flex-wrap: nowrap; overflow-x: auto;">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-align: center; font-size: 14px; color: inherit; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /><br />
+    Linux
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="text-align: center; font-size: 14px; color: inherit; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" /><br />
+    AWS
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-align: center; font-size: 14px; color: inherit; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /><br />
+    Docker
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer" style="text-align: center; font-size: 14px; color: inherit; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" /><br />
+    Terraform
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer" style="text-align: center; font-size: 14px; color: inherit; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" /><br />
+    GitHub
+  </a>
+  <a href="https://hub.docker.com/" target="_blank" rel="noreferrer" style="text-align: center; font-size: 14px; color: inherit; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="dockerhub" width="40" height="40" /><br />
+    Docker Hub
+  </a>
+</p>
+
