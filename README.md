@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-<p align="left" style="display: flex; gap: 20px; flex-wrap: wrap; max-width: 400px;">
+<p align="left" style="display: flex; gap: 15px; flex-wrap: wrap; max-width: 400px;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" title="C">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
   </a>
@@ -64,4 +64,3 @@
     Docker Hub
   </a>
 </p>
-
