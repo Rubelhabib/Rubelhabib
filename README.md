@@ -57,7 +57,6 @@
   <a href="https://linkedin.com/in/rubel-habib-0226311bb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30" />
   </a>
-  <a href="https://facebook.com/relicboy.rubel" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" height="30" />
   </a>
   <a href="https://github.com/Rubelhabib" target="_blank">
